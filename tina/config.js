@@ -18,7 +18,6 @@ import pages from './collections/pages';
 import superstars from './collections/superstars';
 import testimonials from './collections/testimonials';
 import topFounders from './collections/top-founders';
-import uploadAndApply from './collections/uploadAndApply';
 import whySuperNovaExists from './collections/whySuperNovaExists';
 
 export default defineConfig({
@@ -48,7 +47,7 @@ export default defineConfig({
       aboutUs,
       joinSupernovaNetwork,
       joinSteps,
-      uploadAndApply,
+      // uploadAndApply,
       howItWorks,
       advisory,
       testimonials,
